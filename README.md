@@ -35,5 +35,25 @@ In the data folder AviationData from the National Transportation Safety Board th
 ## Conclusion
   - Most accidents happen during landing and approach
   - Some location have higher incidents count
-    
+##  Commit History
+
+Project developed over multiple stages:
+  - Data cleaning
+  - Imputation
+  - EDA
+  - Visualizations
+  - Final conclusions
+## Organization
+aviation-data-analysis
+     1. - AviationData.csv
+        - Datacleaning.csv
+     2. Aviation_insights_slides.pdf
+     3. - .gitignore
+        - README.md
+## Notebooks
+Notebook - Phase 1 Project.ipynb
+PowerPoint Notebook - Phase 1 Project.pdf 
+## License
+This project is licensed under the MIT License.
+
 
