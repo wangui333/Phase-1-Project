@@ -14,7 +14,7 @@ For this project, i used data cleaning, imputation, analysis, and visualization 
 In the data folder AviationData from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
 ### Description of Data:
 80,000+ rows and multiple features including:
- -       Event.Id', 'Investigation.Type', 'Accident.Number', 'Event.Date',
+ -     'Event.Id', 'Investigation.Type', 'Accident.Number', 'Event.Date',
        'Location', 'Country', 'Latitude', 'Longitude', 'Airport.Code',
        'Airport.Name', 'Injury.Severity', 'Aircraft.damage',
        'Aircraft.Category', 'Registration.Number', 'Make', 'Model',
@@ -45,14 +45,14 @@ Project developed over multiple stages:
   - Final conclusions
 ## Organization
 aviation-data-analysis
-     1. - AviationData.csv
-        - Datacleaning.csv
-     2. Aviation_insights_slides.pdf
-     3. - .gitignore
-        - README.md
+ 1. - AviationData.csv
+    - Datacleaning.csv
+ 2. Aviation_insights_slides.pdf
+ 3.  - .gitignore
+      - README.md
 ## Notebooks
-Notebook - Phase 1 Project.ipynb
-PowerPoint Notebook - Phase 1 Project.pdf 
+  - Notebook - Phase 1 Project.ipynb
+  - PowerPoint Notebook - Phase 1 Project.pdf 
 ## License
 This project is licensed under the MIT License.
 
